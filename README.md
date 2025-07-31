@@ -14,7 +14,7 @@ A social media web-application with Django.
 <li>Chats using websockets</li>
 <li>Video Calls</li>
 
-## Demo (Not up-to-date)
+## Demo
 
 
 https://user-images.githubusercontent.com/64803043/118666705-02735600-b811-11eb-80f9-445bbe6e55c9.mp4
@@ -48,11 +48,7 @@ https://user-images.githubusercontent.com/64803043/118666705-02735600-b811-11eb-
 
 https://django-allauth.readthedocs.io/en/latest/installation.html#post-installation
 
-## Others
 
-- To use other DB edit this https://github.com/Ronik22/Django_Social_Network_App/blob/main/myproject/settings.py#L107
-- To use other providers edit this https://github.com/Ronik22/Django_Social_Network_App/blob/main/myproject/settings.py#L205
-- To use redis instead edit this https://github.com/Ronik22/Django_Social_Network_App/blob/main/myproject/settings.py#L197
 
 ## Running Tests
 
